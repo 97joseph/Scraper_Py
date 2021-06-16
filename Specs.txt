@@ -1,0 +1,6 @@
+I need someone to develop a service using Python/Django or a software robot using one of the community-driven/open source RPA platforms, that will perform the following:
+
+- Take a website product page URL as an input
+- Capture and return the product title, SKU/product code, summary text, image and price
+
+If the input URL does not contain product detail (for example it was a product listing page or the URL was for some other random website), the service/robot must return appropriate message. The success criteria for this project will be the tools capability to deal with ANY URL as an input and return the mentioned values.
